@@ -2,7 +2,6 @@
 
 ![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0%2B-00a393.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.27.0%2B-FF4B4B.svg)
 ![Numba](https://img.shields.io/badge/Numba-JIT_Optimized-blueviolet.svg)
 ![Quant](https://img.shields.io/badge/Domain-Quantitative_Finance-gold.svg)
 
